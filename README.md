@@ -51,9 +51,11 @@ Technologies
 File Structure
 
 weight-converter/
-├── index.html      # Main HTML structure
-├── styles.css      # Styling and layout
-└── script.js       # Conversion logic and event handling
+
+-├── index.html      -# Main HTML structure
+-├── styles.css      -# Styling and layout
+-└── script.js       -# Conversion logic and event handling
+
 Project Status
 
 Learning project demonstrating use of JavaScript objects, dropdown menus, and mathematical conversions. Functional and handles all listed unit conversions correctly.
