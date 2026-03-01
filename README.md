@@ -22,7 +22,7 @@ Jin (JIN), Tael (TAEL), Mithqal (MITHQAL), Arabic Pound (AR-LB), Maund (MAUND)
 Installation
 
 -Clone the repository
--git clone https://github.com/YOUR-USERNAME/weight-converter.git
+-git clone https://github.com/Ahmad-1102/weight-converter.git
 -Navigate to project directory
 -cd weight-converter
 -Open index.html in your browser
