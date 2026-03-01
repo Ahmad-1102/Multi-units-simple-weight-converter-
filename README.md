@@ -64,6 +64,8 @@ Learning project demonstrating use of JavaScript objects, dropdown menus, and ma
 
 License:
 MIT
+
 Author:
 Ahmad
+
 GitHub: @Ahmad-1102
