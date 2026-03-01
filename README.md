@@ -52,9 +52,11 @@ File Structure
 
 weight-converter/
 
--├── index.html      -# Main HTML structure
--├── styles.css      -# Styling and layout
--└── script.js       -# Conversion logic and event handling
+├── index.html      # Main HTML structure
+
+├── styles.css      # Styling and layout
+
+└── script.js       # Conversion logic and event handling
 
 Project Status
 
