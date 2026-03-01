@@ -1,0 +1,72 @@
+                body {
+                    background-color: #1e8a20;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    gap: 10px;
+                    height: 100vh;
+                    user-select: none;
+                }
+                p{
+                    margin: 0;
+                }
+                .all{
+                    display: flex;
+                    flex-direction: column;
+                    gap: 10px;
+                    align-items: center;
+                    justify-content: center;
+                }
+                .weight-input, .unit-from-select, .unit-to-select {
+                    width: 400px;
+                    border: 1px black solid;
+                    border-radius: 10px;
+                    padding: 10px;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: bold;
+                    font-size: 30px;
+                    outline: none;
+                }
+                .unit-from-select, .unit-to-select {
+                    width: 420px;
+                }
+                .result-css {
+                    background-color: #dbeafe;
+                    color: #1f2937;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: bold;
+                    font-size: 40px;
+                    width: 350px;
+                    border: none;
+                    border-radius: 10px;
+                    padding: 30px;
+                    text-align: center;
+                }
+                .convert-btn{
+                    background-color: #1ab811;
+                    border: black 1px solid;
+                    border-radius: 10px;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: bold;
+                    font-size: 25px;
+                    padding: 10px 20px;
+                    transition: 0.15s;
+                }
+                .convert-btn:hover {
+                    background-color: #0b5207;
+                    color: white;
+                    cursor: pointer;
+                }
+                .convert-btn:active {
+                    background-color: #1ab811;
+                    color: white;
+                }
+                option {
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                border: 1px black solid;
+                padding: 10px;
+                font-family: Arial, Helvetica, sans-serif;
+                outline: none;
+            }
